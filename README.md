@@ -1,5 +1,9 @@
-# atom-shortcuts-teacher package
+# Shortcuts Teacher
 
-A short description of your package.
+If you launch a command using either a menu or through the [Command
+Palette](https://atom.io/packages/command-palette), the Shortcuts Teacher will
+pop up a notification informing you about how you can do the same thing using a
+keyboard shortcut.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Inspired by the centuries old [Emacs](https://www.gnu.org/software/emacs/)
+feature doing the exact same thing.
