@@ -1,0 +1,17 @@
+{
+  "name": "shortcuts-teacher",
+  "main": "./lib/atom-shortcuts-teacher",
+  "version": "0.0.0",
+  "description": "Hints about keyboard shortcuts when executing commands without them",
+  "keywords": [
+    "shortcuts",
+    "emacs"
+  ],
+  "repository": "https://github.com/walles/atom-shortcuts-teacher",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
