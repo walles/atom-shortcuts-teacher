@@ -1,6 +1,6 @@
 {
   "name": "shortcuts-teacher",
-  "main": "./lib/atom-shortcuts-teacher",
+  "main": "./lib/shortcuts-teacher",
   "version": "0.0.0",
   "description": "Hints about keyboard shortcuts when executing commands without them",
   "keywords": [
