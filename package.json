@@ -5,10 +5,13 @@
   "version": "0.0.1",
   "description": "Helps you learn Atom's shortcuts by hinting you when you execute commands without them.",
   "keywords": [
-    "shortcuts",
-    "shortcut",
     "cheatsheet",
-    "emacs"
+    "emacs",
+    "keybinding",
+    "keybindings",
+    "keyboard",
+    "shortcut",
+    "shortcuts",
   ],
   "repository": "https://github.com/walles/atom-shortcuts-teacher",
   "homepage": "https://github.com/walles/atom-shortcuts-teacher",
