@@ -2,7 +2,7 @@
   "name": "shortcuts-teacher",
   "author": "Johan Walles <johan.walles@gmail.com> (https://github.com/walles)",
   "main": "./lib/shortcuts-teacher",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hints about keyboard shortcuts when executing commands without them",
   "keywords": [
     "shortcuts",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
