@@ -10,7 +10,7 @@ feature doing the exact same thing.
 
 ![Animated demo](https://github.com/walles/atom-shortcuts-teacher/raw/master/demo.gif)
 
-# TODO
+# [TODO](https://github.com/walles/atom-shortcuts-teacher)
 * Don't show duplicate keybinding names
 * Show shorter shortcuts before longer
 * Experiment with putting the shortcuts in a bulleted list?
