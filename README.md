@@ -8,10 +8,14 @@ keyboard shortcut.
 Inspired by the centuries old [Emacs](https://www.gnu.org/software/emacs/)
 feature doing the exact same thing.
 
+![Animated demo](https://github.com/walles/atom-shortcuts-teacher/raw/master/demo.gif)
+
 # TODO
-* Make an animated gif showing off the functionality and add it to this
-  README.md
 * Don't show duplicate keybinding names
 * Show human friendly command names; "Application: New File" rather than
   `application:new-file`
 * Escape backticks in our shortcut Markdown
+
+## DONE
+* Make an animated gif showing off the functionality and add it to this
+  README.md
