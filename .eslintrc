@@ -13,7 +13,8 @@
   },
 
   "globals": {
-    "atom": true
+    "atom": true,
+    "expect": true
   },
 
   "rules": {
