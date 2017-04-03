@@ -3,7 +3,7 @@
   "author": "Johan Walles <johan.walles@gmail.com> (https://github.com/walles)",
   "main": "./lib/shortcuts-teacher",
   "version": "0.0.1",
-  "description": "Hints about keyboard shortcuts when executing commands without them",
+  "description": "Helps you learn Atom's shortcuts by hinting you when you execute commands without them.",
   "keywords": [
     "shortcuts",
     "emacs"
