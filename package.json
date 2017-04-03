@@ -6,6 +6,7 @@
   "description": "Helps you learn Atom's shortcuts by hinting you when you execute commands without them.",
   "keywords": [
     "shortcuts",
+    "shortcut",
     "emacs"
   ],
   "repository": "https://github.com/walles/atom-shortcuts-teacher",
