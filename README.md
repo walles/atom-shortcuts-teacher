@@ -12,6 +12,9 @@ feature doing the exact same thing.
 
 # TODO
 * Don't show duplicate keybinding names
+* Show shorter shortcuts before longer
+* Experiment with putting the shortcuts in a bulleted list?
+* Can we show only shortcuts for the relevant context?
 * Show human friendly command names; "Application: New File" rather than
   `application:new-file`
 * Escape backticks in our shortcut Markdown
