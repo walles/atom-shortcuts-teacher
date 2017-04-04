@@ -1,10 +1,9 @@
 {
   "name": "shortcuts-teacher",
   "author": "Johan Walles <johan.walles@gmail.com> (https://github.com/walles)",
-  "contributors": [
-  ],
+  "contributors": [],
   "main": "./lib/shortcuts-teacher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helps you learn Atom's shortcuts by hinting you when you execute commands without them.",
   "keywords": [
     "cheatsheet",
