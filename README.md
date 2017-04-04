@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/walles/atom-shortcuts-teacher.svg?branch=master)](https://travis-ci.org/walles/atom-shortcuts-teacher)
+
 # Shortcuts Teacher
 
 If you launch a command using either a menu or through the [Command
