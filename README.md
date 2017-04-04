@@ -13,7 +13,6 @@ feature doing the exact same thing.
 ![Animated demo](https://github.com/walles/atom-shortcuts-teacher/raw/master/demo.gif)
 
 # [TODO](https://github.com/walles/atom-shortcuts-teacher)
-* Escape backticks in our shortcut Markdown
 * Show keybindings without special characters first
 * Experiment with putting the shortcuts in a bulleted list?
 
@@ -24,3 +23,4 @@ feature doing the exact same thing.
 * Don't show duplicate keybinding names
 * Put each multi-key keybinding in its own backticks.
 * Show human friendly command names
+* Escape backticks in our shortcut Markdown
