@@ -13,16 +13,15 @@ feature doing the exact same thing.
 ![Animated demo](https://github.com/walles/atom-shortcuts-teacher/raw/master/demo.gif)
 
 # [TODO](https://github.com/walles/atom-shortcuts-teacher)
-* Show keybindings without special characters first
-* Experiment with putting the shortcuts in a bulleted list?
 * Show human friendly command names; "Application: New File" rather than
   `application:new-file`
 * Escape backticks in our shortcut Markdown
-* Put each multi-key keybinding in its own backticks. Currently we put each key
-  in its own backticks, but I think the current way is less clear.
+* Show keybindings without special characters first
+* Experiment with putting the shortcuts in a bulleted list?
 
 ## DONE
 * Make an animated gif showing off the functionality and add it to this
   README.md
 * Show only shortcuts for the relevant context
 * Don't show duplicate keybinding names
+* Put each multi-key keybinding in its own backticks.
