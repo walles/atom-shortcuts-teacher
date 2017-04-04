@@ -13,8 +13,6 @@ feature doing the exact same thing.
 ![Animated demo](https://github.com/walles/atom-shortcuts-teacher/raw/master/demo.gif)
 
 # [TODO](https://github.com/walles/atom-shortcuts-teacher)
-* Show human friendly command names; "Application: New File" rather than
-  `application:new-file`
 * Escape backticks in our shortcut Markdown
 * Show keybindings without special characters first
 * Experiment with putting the shortcuts in a bulleted list?
@@ -25,3 +23,4 @@ feature doing the exact same thing.
 * Show only shortcuts for the relevant context
 * Don't show duplicate keybinding names
 * Put each multi-key keybinding in its own backticks.
+* Show human friendly command names
