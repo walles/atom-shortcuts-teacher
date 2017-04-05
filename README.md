@@ -14,7 +14,6 @@ feature doing the exact same thing.
 
 # [TODO](https://github.com/walles/atom-shortcuts-teacher)
 * Show keybindings without special characters first
-* Experiment with putting the shortcuts in a bulleted list?
 
 ## DONE
 * Make an animated gif showing off the functionality and add it to this
@@ -24,3 +23,4 @@ feature doing the exact same thing.
 * Put each multi-key keybinding in its own backticks.
 * Show human friendly command names
 * Escape backticks in our shortcut Markdown
+* Put the shortcuts in a bulleted list
