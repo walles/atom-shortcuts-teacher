@@ -3,7 +3,7 @@
   "author": "Johan Walles <johan.walles@gmail.com> (https://github.com/walles)",
   "contributors": [],
   "main": "./lib/shortcuts-teacher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Helps you learn Atom's shortcuts by hinting you when you execute commands without them.",
   "keywords": [
     "cheatsheet",
